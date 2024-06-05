@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://api.github.com/repos/nodejs/node/pulls/comments/886133237",
+    "pull_request_review_id": 991155652,
+    "id": 886133237,
+    "node_id": "PRRC_kwDOAZ7xs8400VH1",
+    "diff_hunk": "@@ -60,6 +61,336 @@\n   * [io.js](CHANGELOG_IOJS.md)\n   * [Archive](CHANGELOG_ARCHIVE.md)\n \n+<a id=\"16.16.0\"></a>\n+\n+## 2022-05-XX, Version 16.16.0 'Gallium' (LTS), @TBD\n+\n+### Notable changes\n+\n+* **(SEMVER-MINOR)** **crypto**: make authTagLength optional for CC20P1305 (Tobias Nießen) [#42427](https://github.com/nodejs/node/pull/42427)\n+* **(SEMVER-MINOR)** **esm**: add chaining to loaders (Jacob Smith) [#42623](https://github.com/nodejs/node/pull/42623)",
+    "path": "doc/changelogs/CHANGELOG_V16.md",
+    "commit_id": "d1c892fe7c84451ad1870559251e522ad0c50f52",
+    "original_commit_id": "d1c892fe7c84451ad1870559251e522ad0c50f52",
+    "user": {
+      "login": "aduh95",
+      "id": 14309773,
+      "node_id": "MDQ6VXNlcjE0MzA5Nzcz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14309773?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/aduh95",
+      "html_url": "https://github.com/aduh95",
+      "followers_url": "https://api.github.com/users/aduh95/followers",
+      "following_url": "https://api.github.com/users/aduh95/following{/other_user}",
+      "gists_url": "https://api.github.com/users/aduh95/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/aduh95/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/aduh95/subscriptions",
+      "organizations_url": "https://api.github.com/users/aduh95/orgs",
+      "repos_url": "https://api.github.com/users/aduh95/repos",
+      "events_url": "https://api.github.com/users/aduh95/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/aduh95/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "body": "This has not landed yet on a Current release line, I don't think it should be in a LTS release yet.",
+    "created_at": "2022-05-31T21:10:27Z",
+    "updated_at": "2022-05-31T21:10:42Z",
+    "html_url": "https://github.com/nodejs/node/pull/43268#discussion_r886133237",
+    "pull_request_url": "https://api.github.com/repos/nodejs/node/pulls/43268",
+    "author_association": "CONTRIBUTOR",
+    "_links": {
+      "self": {
+        "href": "https://api.github.com/repos/nodejs/node/pulls/comments/886133237"
+      },
+      "html": {
+        "href": "https://github.com/nodejs/node/pull/43268#discussion_r886133237"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/nodejs/node/pulls/43268"
+      }
+    },
+    "reactions": {
+      "url": "https://api.github.com/repos/nodejs/node/pulls/comments/886133237/reactions",
+      "total_count": 2,
+      "+1": 2,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 71,
+    "original_line": 71,
+    "side": "RIGHT",
+    "original_position": 19,
+    "position": 19,
+    "subject_type": "line",
+    "cleanUrl": "https://api.github.com/repos/nodejs/node/issues/43268",
+    "dsprStatus": "NOT_MERGED"
+  }
+]

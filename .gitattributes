@@ -1,0 +1,6 @@
+#*repos.json filter=lfs diff=lfs merge=lfs -text
+#*pulls.json filter=lfs diff=lfs merge=lfs -text
+#*initial.json filter=lfs diff=lfs merge=lfs -text
+#*refined.json filter=lfs diff=lfs merge=lfs -text
+#*meta.json filter=lfs diff=lfs merge=lfs -text
+#*.zip filter=lfs diff=lfs merge=lfs -text

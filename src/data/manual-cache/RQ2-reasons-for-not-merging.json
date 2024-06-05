@@ -1,0 +1,24 @@
+[
+  {
+    "allReasons": 2036,
+    "R1_Superseded": 1006,
+    "R2_Up_to_date": 208,
+    "R3_No_longer_a_dependency": null,
+    "R4_No_longer_updatable": null,
+    "R5_Tests": 6,
+    "R6_Errors": 10,
+    "R7_Quality_Requirement": 18,
+    "R8_Unknown": 788,
+    "percentages": {
+      "allReasons": 100,
+      "R1_Superseded": 49.41060903732809,
+      "R2_Up_to_date": 10.216110019646365,
+      "R3_No_longer_a_dependency": null,
+      "R4_No_longer_updatable": 0,
+      "R5_Tests": 0.29469548133595286,
+      "R6_Errors": 0.4911591355599214,
+      "R7_Quality_Requirement": 0.8840864440078585,
+      "R8_Unknown": 38.70333988212181
+    }
+  }
+]

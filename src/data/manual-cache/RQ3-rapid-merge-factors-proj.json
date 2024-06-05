@@ -1,0 +1,23 @@
+[
+  {
+    "r3Rapid": 348,
+    "percAccepted": 304,
+    "percAccepted_0": 44,
+    "percentages": {
+      "r3Rapid": 100,
+      "percAccepted": 87.35632183908046,
+      "percAcceptedPrs_0": 12.643678160919542,
+      "below": {
+        "percAccepted_10": 12.643678160919542,
+        "percAccepted_20": 14.080459770114942,
+        "percAccepted_30": 16.666666666666664,
+        "percAccepted_50": 29.88505747126437,
+        "percAccepted_60": 33.33333333333333,
+        "percAccepted_70": 36.7816091954023,
+        "percAccepted_80": 49.712643678160916,
+        "percAccepted_90": 68.96551724137932,
+        "percAccepted_100": 100
+      }
+    }
+  }
+]

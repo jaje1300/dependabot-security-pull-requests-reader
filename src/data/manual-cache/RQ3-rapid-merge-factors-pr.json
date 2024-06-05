@@ -1,0 +1,26 @@
+[
+  {
+    "r3Rapid": 348,
+    "autoMerge": 11,
+    "autoMerge_False": 337,
+    "changedLines": 348,
+    "changedLines_0": 0,
+    "percentages": {
+      "r3Rapid": 100,
+      "autoMerge": 3.1609195402298855,
+      "autoMergeFalse": 96.83908045977012,
+      "changedLines": 100,
+      "changedLines_0": 0,
+      "below": {
+        "changedLines_2": 11.781609195402298,
+        "changedLines_4": 13.793103448275861,
+        "changedLines_8": 25.862068965517242,
+        "changedLines_10": 36.206896551724135,
+        "changedLines_20": 53.735632183908045,
+        "changedLines_30": 59.195402298850574,
+        "changedLines_50": 67.81609195402298,
+        "changedLines_100": 79.02298850574712
+      }
+    }
+  }
+]
